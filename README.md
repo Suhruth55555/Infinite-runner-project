@@ -1,1 +1,1 @@
-# Infinite-runner-project
+# Infinite-Runner
